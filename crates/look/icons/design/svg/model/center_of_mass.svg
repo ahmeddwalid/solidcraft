@@ -1,16 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
-  <title>Center of mass</title>
-  <path d="M13.28 21.86L32 32.78L32 53.06L13.28 42.14Z" fill="#b8c3cf"/>
-  <path d="M32 32.78L50.72 21.86L50.72 42.14L32 53.06Z" fill="#8e9faf"/>
-  <path d="M13.28 21.86L32 10.94L50.72 21.86L32 32.78Z" fill="#e2e8ef"/>
-  <path d="M13.28 21.86L32 10.94L50.72 21.86L50.72 42.14L32 53.06L13.28 42.14Z" fill="none" stroke="#34465b" stroke-width="2.55" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M32 32.78L13.28 21.86" fill="none" stroke="#34465b" stroke-width="2.55" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M32 32.78L50.72 21.86" fill="none" stroke="#34465b" stroke-width="2.55" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M32 32.78L32 53.06" fill="none" stroke="#34465b" stroke-width="2.55" stroke-linejoin="round" stroke-linecap="round"/>
-  <circle cx="32" cy="33" r="12.5" fill="#ffffff"/>
-  <circle cx="32" cy="33" r="8.5" fill="#ffffff" stroke="#34465b" stroke-width="2.55" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M32 24.5A8.5 8.5 0 0 1 40.5 33L32 33Z" fill="#328bd3"/>
-  <path d="M32 41.5A8.5 8.5 0 0 1 23.5 33L32 33Z" fill="#328bd3"/>
-  <path d="M23 33L41 33" fill="none" stroke="#34465b" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
-  <path d="M32 24L32 42" fill="none" stroke="#34465b" stroke-width="1.8" stroke-linejoin="round" stroke-linecap="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><title>Center of mass</title><path fill="#b8c3cf" d="M13.28 21.86L32 32.78L32 53.06L13.28 42.14Z"/><path fill="#8e9faf" d="M32 32.78L50.72 21.86L50.72 42.14L32 53.06Z"/><path fill="#e2e8ef" d="M13.28 21.86L32 10.94L50.72 21.86L32 32.78Z"/><path fill="none" stroke="#34465b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.55" d="M13.28 21.86L32 10.94L50.72 21.86L50.72 42.14L32 53.06L13.28 42.14Z"/><path fill="none" stroke="#34465b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.55" d="M32 32.78L13.28 21.86"/><path fill="none" stroke="#34465b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.55" d="M32 32.78L50.72 21.86"/><path fill="none" stroke="#34465b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.55" d="M32 32.78L32 53.06"/><circle cx="32" cy="33" r="12.5" fill="#fff"/><circle cx="32" cy="33" r="8.5" fill="#fff" stroke="#34465b" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.55"/><path fill="#328bd3" d="M32 24.5A8.5 8.5 0 0 1 40.5 33L32 33Z"/><path fill="#328bd3" d="M32 41.5A8.5 8.5 0 0 1 23.5 33L32 33Z"/><path fill="none" stroke="#34465b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M23 33L41 33"/><path fill="none" stroke="#34465b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.8" d="M32 24L32 42"/></svg>
